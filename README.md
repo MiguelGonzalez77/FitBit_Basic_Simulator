@@ -1,4 +1,4 @@
-Before getting started:
+BEFORE GETTING STARTED:
 
 Ensure that you own a Basys3 FPGA kit and also the software that got this running was by using Vivado as the environment.
 
